@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/fbd9549f-a790-4861-bc0e-b20323b10d9d)
-
 # Card Bust
 
 Card Bust is a powerful web application designed to create and manage flashcards, enhancing learning and memorization processes.
