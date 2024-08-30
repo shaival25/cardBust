@@ -2,8 +2,6 @@
 
 Card Bust is a powerful web application designed to create and manage flashcards, enhancing learning and memorization processes.
 
-[Live Demo](https://)
-
 ## Key Features
 
 - **Manual Creation Option**: Create your manual cards
@@ -24,12 +22,6 @@ Card Bust is a powerful web application designed to create and manage flashcards
 
 - MySQL for structured data storage
 - Redis for caching and performance optimization
-
-### Deployment
-
-- MySQL hosted on Railway
-- Backend deployed on Render
-- Frontend hosted on Cloudflare Pages
 
 ## File Structure
 
@@ -57,12 +49,6 @@ Card Bust is a powerful web application designed to create and manage flashcards
 
 ## Setting up project
 
-### Clone the project
-
-```
-git clone
-```
-
 ### Install dependencies
 
 - Move to frontend folder and run the command - `pnpm install`
@@ -72,7 +58,6 @@ git clone
 
 - Backend
   ```
-    OPEN_AI_API_KEY=
     DB_USERNAME=
     DB_PASSWORD=
     DB_DATABASE=
@@ -94,5 +79,3 @@ git clone
 
 - cd to backend `pnpm run dev`
 - cd to frontend `pnpm run dev`
-
-### Wohoo ! congrats you are done with setup :)
